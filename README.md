@@ -3,15 +3,11 @@
 This project aims to develop a system for recognizing and solving image CAPTCHAs using machine learning techniques.
 
 ## Table of Contents
-### Overview
+Overview
 
-### Features
+Features
 
-### Installation
-
-### Usage
-
-### Contributing
+Contributing
 
 ## Overview
 
